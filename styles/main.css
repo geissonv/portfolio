@@ -1,0 +1,32 @@
+.first {
+  height: 750px;
+  background-color: var(--base-color-gray-00);
+  background-image: url("../assets/background/Projeto.png");
+  background-repeat: no-repeat;
+
+}
+
+.main {
+  max-width: 680px;
+  height: 318px;
+
+  padding-top: 120px;
+  margin-inline: auto;
+  text-align: center;
+  color: var(--base-color-gray-600);
+
+  /* background-image: url("../assets/background/Projeto.png"); */
+  
+  /* color: #E2E4E9; */
+
+  img {
+    width: 112px;
+    height: 112px;
+    margin-bottom: 56px;
+    margin-inline: auto;
+  }
+  
+  span {
+    margin-top: 20px;
+  }
+}
