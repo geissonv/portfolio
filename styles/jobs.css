@@ -2,7 +2,7 @@
   width: 1040px;
   height: 701px;
   margin-inline: auto;
-  padding-top: 72px;
+  margin-block: 72px 144px;
   
   div {
     gap: 24px;

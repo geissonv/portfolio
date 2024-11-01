@@ -3,6 +3,7 @@
   background-color: var(--base-color-gray-00);
   background-image: url("../assets/background/Projeto.png");
   background-repeat: no-repeat;
+  background-position: center;
 
 }
 
