@@ -1,0 +1,10 @@
+#my-job {
+  background-color: var(--base-color-gray-100);
+  padding-inline: auto;
+  padding-block: 88px 120px;
+  text-align: center;
+
+  &>div {
+    margin-bottom: 28px;
+  }
+}

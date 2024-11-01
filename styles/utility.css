@@ -42,6 +42,10 @@
   color: var(--main-color-red);
 }
 
+.purple {
+  color: var(--main-color-purple);
+}
+
 .base-500 {
   color: var(--base-color-gray-500);
 }

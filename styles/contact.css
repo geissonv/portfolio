@@ -1,0 +1,17 @@
+#contact {
+  padding-inline: auto;
+  padding-block: 88px 120px;
+  text-align: center;
+
+  .tittle {
+    margin-bottom: 30px;
+  }
+
+  .contact {
+    display: grid;
+    gap: 20px;
+  }
+
+
+}
+
